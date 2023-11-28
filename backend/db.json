@@ -1,0 +1,171 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "pass123"
+    },
+    {
+      "id": 2,
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "password": "pass456"
+    },
+    {
+      "id": 3,
+      "name": "Bob Smith",
+      "email": "bob@example.com",
+      "password": "pass789"
+    },
+    {
+      "id": 4,
+      "name": "Emma Brown",
+      "email": "emma@example.com",
+      "password": "passABC"
+    },
+    {
+      "id": 5,
+      "name": "Michael Davis",
+      "email": "michael@example.com",
+      "password": "passDEF"
+    }
+  ],
+  "calculations": [
+    {
+      "id": 1,
+      "userId": 3,
+      "height": 1.75,
+      "weight": 70,
+      "bmi_value": 22.86,
+      "bmi_rating": "Normal",
+      "date": "2023-11-28"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "height": 1.65,
+      "weight": 55,
+      "bmi_value": 20.2,
+      "bmi_rating": "Normal",
+      "date": "2023-11-27"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "height": 1.8,
+      "weight": 90,
+      "bmi_value": 27.78,
+      "bmi_rating": "Overweight",
+      "date": "2023-11-26"
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "height": 1.7,
+      "weight": 100,
+      "bmi_value": 34.6,
+      "bmi_rating": "Obese",
+      "date": "2023-11-25"
+    },
+    {
+      "id": 5,
+      "userId": 5,
+      "height": 1.6,
+      "weight": 45,
+      "bmi_value": 17.58,
+      "bmi_rating": "Underweight",
+      "date": "2023-11-24"
+    },
+    {
+      "id": 6,
+      "userId": 3,
+      "height": 1.76,
+      "weight": 72,
+      "bmi_value": 23.25,
+      "bmi_rating": "Normal",
+      "date": "2023-11-23"
+    },
+    {
+      "id": 7,
+      "userId": 5,
+      "height": 1.68,
+      "weight": 58,
+      "bmi_value": 20.55,
+      "bmi_rating": "Normal",
+      "date": "2023-11-22"
+    },
+    {
+      "id": 8,
+      "userId": 2,
+      "height": 1.82,
+      "weight": 85,
+      "bmi_value": 25.61,
+      "bmi_rating": "Overweight",
+      "date": "2023-11-21"
+    },
+    {
+      "id": 9,
+      "userId": 1,
+      "height": 1.69,
+      "weight": 95,
+      "bmi_value": 33.28,
+      "bmi_rating": "Obese",
+      "date": "2023-11-20"
+    },
+    {
+      "id": 10,
+      "userId": 4,
+      "height": 1.71,
+      "weight": 110,
+      "bmi_value": 37.63,
+      "bmi_rating": "Obese",
+      "date": "2023-11-19"
+    },
+    {
+      "id": 11,
+      "userId": 2,
+      "height": 1.75,
+      "weight": 60,
+      "bmi_value": 19.59,
+      "bmi_rating": "Normal",
+      "date": "2023-11-18"
+    },
+    {
+      "id": 12,
+      "userId": 3,
+      "height": 1.68,
+      "weight": 65,
+      "bmi_value": 23.03,
+      "bmi_rating": "Normal",
+      "date": "2023-11-17"
+    },
+    {
+      "id": 13,
+      "userId": 1,
+      "height": 1.79,
+      "weight": 87,
+      "bmi_value": 27.18,
+      "bmi_rating": "Overweight",
+      "date": "2023-11-16"
+    },
+    {
+      "id": 14,
+      "userId": 4,
+      "height": 1.73,
+      "weight": 105,
+      "bmi_value": 35.1,
+      "bmi_rating": "Obese",
+      "date": "2023-11-15"
+    },
+    {
+      "id": 15,
+      "userId": 5,
+      "height": 1.62,
+      "weight": 50,
+      "bmi_value": 19.05,
+      "bmi_rating": "Underweight",
+      "date": "2023-11-14"
+    }
+  ]
+}
